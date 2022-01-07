@@ -1,12 +1,12 @@
 module.exports = {
     // Extend website resources and html
     website: {
-        assets: "./book",
+        assets: "./lib",
         js: [
-            "expandable-chapters-small.js"
+            "expandable-chapters-x.js"
         ],
         css: [
-            "expandable-chapters-small.css"
+            "expandable-chapters-x.css"
         ]
     }
 };
