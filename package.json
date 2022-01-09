@@ -1,7 +1,6 @@
 {
   "name": "gitbook-plugin-expandable-chapters-x",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "engines": {
     "gitbook": ">1.x.x"
@@ -22,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/T-miracle/gitbook-plugin-expandable-chapters-x/issues"
   },
-  "homepage": "https://github.com/T-miracle/gitbook-plugin-expandable-chapters-x#readme"
+  "homepage": "https://github.com/T-miracle/gitbook-plugin-expandable-chapters-x#readme",
+  "description": ""
 }
