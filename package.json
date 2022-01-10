@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-expandable-chapters-x",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "engines": {
     "gitbook": ">1.x.x"
